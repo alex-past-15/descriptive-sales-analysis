@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Анализ продаж</title>
+  <desc id="desc">Курсовая работа. Данные, графики и выводы. Справа — декоративная диаграмма.</desc>
+  <rect width="1200" height="320" rx="20" fill="#172832"/>
+  <path d="M56 64H104" stroke="#88C7B5" stroke-width="4"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="56" y="104" fill="#AFC1C9" font-size="17" letter-spacing="3">КУРСОВАЯ РАБОТА</text>
+    <text x="53" y="173" fill="#F4F7F8" font-size="54" font-weight="700">Анализ продаж</text>
+    <text x="56" y="218" fill="#B8CAD1" font-size="23">Данные, графики и выводы</text>
+    <text x="56" y="274" fill="#88C7B5" font-size="16">Python / pandas / scikit-learn</text>
+  </g>
+  <g stroke="#314650" stroke-width="1">
+    <path d="M780 88H1128M780 146H1128M780 204H1128M780 262H1128"/>
+  </g>
+  <g fill="#426B70">
+    <rect x="800" y="200" width="42" height="62" rx="5"/>
+    <rect x="870" y="171" width="42" height="91" rx="5"/>
+    <rect x="940" y="182" width="42" height="80" rx="5"/>
+    <rect x="1010" y="131" width="42" height="131" rx="5"/>
+    <rect x="1080" y="99" width="42" height="163" rx="5" fill="#88C7B5"/>
+  </g>
+  <path d="M821 169L891 138L961 150L1031 100L1101 65" fill="none" stroke="#B1DCCF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#B1DCCF">
+    <circle cx="821" cy="169" r="4"/><circle cx="891" cy="138" r="4"/><circle cx="961" cy="150" r="4"/><circle cx="1031" cy="100" r="4"/><circle cx="1101" cy="65" r="4"/>
+  </g>
+</svg>
